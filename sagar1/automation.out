@@ -1,0 +1,49 @@
+2021-05-24 00:50:35 INFO  Tc_001:13 - initialization is starting
+2021-05-24 00:50:43 INFO  Tc_001:15 - browser is launching
+2021-05-24 00:50:46 INFO  Tc_001:17 - navigating url
+2021-05-24 00:50:47 INFO  Tc_001:20 - selecting the dropdown option
+2021-05-24 00:50:47 INFO  Tc_001:22 - typing the name harry potter in the textbox
+2021-05-24 00:50:50 INFO  Tc_001:24 - clicking the search button
+2021-05-24 00:51:30 INFO  Tc_001:13 - initialization is starting
+2021-05-24 00:51:33 INFO  Tc_001:15 - browser is launching
+2021-05-24 00:51:36 INFO  Tc_001:17 - navigating url
+2021-05-24 00:51:36 INFO  Tc_001:20 - selecting the dropdown option
+2021-05-24 00:51:36 INFO  Tc_001:22 - typing the name harry potter in the textbox
+2021-05-24 00:51:40 INFO  Tc_001:24 - clicking the search button
+2021-05-24 01:08:42 INFO  Tc_001:13 - -------------------started Tc_001-----------------------
+2021-05-24 01:08:42 INFO  Tc_001:14 - initialising the dependanccy file
+2021-05-24 01:08:45 INFO  Tc_001:16 - opening the borwser :- Chrome
+2021-05-24 01:08:47 INFO  Tc_001:18 - navigated to :- https://www.amazon.in
+2021-05-24 01:08:47 INFO  Tc_001:21 - select the option book by using locator :- searchDropdownBox
+2021-05-24 01:08:47 INFO  Tc_001:23 - entered the text harry potter by using locator :- field-keywords
+2021-05-24 01:08:49 INFO  Tc_001:25 - click the search button by using locator :- nav-search-submit-button
+2021-05-24 01:08:49 INFO  Tc_001:26 - -------------------ended Tc_001-----------------------
+2021-05-24 23:19:52 INFO  Tc_001:13 - -------------------started Tc_001-----------------------
+2021-05-24 23:19:52 INFO  Tc_001:14 - initialising the dependanccy file
+2021-05-24 23:19:54 INFO  Tc_001:16 - opening the borwser :- Chrome
+2021-05-24 23:19:56 INFO  Tc_001:18 - navigated to :- https://www.amazon.in
+2021-05-24 23:19:56 INFO  Tc_001:21 - select the option book by using locator :- searchDropdownBox
+2021-05-24 23:19:56 INFO  Tc_001:23 - entered the text harry potter by using locator :- field-keywords
+2021-05-24 23:19:59 INFO  Tc_001:25 - click the search button by using locator :- nav-search-submit-button
+2021-05-24 23:19:59 INFO  Tc_001:26 - -------------------ended Tc_001-----------------------
+2021-05-25 01:38:10 INFO  Tc_002:19 - intialization is completed
+2021-05-25 01:43:38 INFO  Tc_002:19 - intialization is completed
+2021-05-25 13:00:29 INFO  Tc_002:19 - --------------started Tc_002---------------
+2021-05-25 13:00:52 INFO  Tc_002:19 - --------------started Tc_002---------------
+2021-05-25 13:22:25 INFO  Tc_002:19 - --------------started Tc_002---------------
+2021-05-25 13:22:27 INFO  Tc_002:24 - opening the borwser :- Chrome
+2021-05-25 13:22:29 INFO  Tc_002:28 - navigated to :- https://www.amazon.in
+2021-05-25 13:22:29 INFO  Tc_002:33 - select the option book by using locator :- searchDropdownBox
+2021-05-25 13:22:30 INFO  Tc_002:37 - entered the text harry potter by using locator :- field-keywords
+2021-05-25 13:22:32 INFO  Tc_002:41 - click the search button by using locator :- nav-search-submit-button
+2021-05-25 13:22:32 INFO  Tc_002:44 - -------------------ended Tc_002-----------------------
+2021-05-25 13:26:50 INFO  Tc_002:19 - --------------started Tc_002---------------
+2021-05-25 13:26:50 INFO  Tc_002:20 - initialising the dependanccy file
+2021-05-25 13:36:11 INFO  Tc_002:19 - --------------started Tc_002---------------
+2021-05-25 13:36:11 INFO  Tc_002:20 - initialising the dependanccy file
+2021-05-25 13:36:13 INFO  Tc_002:25 - opening the borwser :- Chrome
+2021-05-25 13:36:15 INFO  Tc_002:29 - navigated to :- https://www.amazon.in
+2021-05-25 13:36:15 INFO  Tc_002:34 - select the option book by using locator :- searchDropdownBox
+2021-05-25 13:36:15 INFO  Tc_002:38 - entered the text harry potter by using locator :- field-keywords
+2021-05-25 13:36:18 INFO  Tc_002:42 - click the search button by using locator :- nav-search-submit-button
+2021-05-25 13:36:18 INFO  Tc_002:45 - -------------------ended Tc_002-----------------------
